@@ -1,0 +1,19 @@
+FROM node:alpine
+
+
+WORKDIR /app
+
+COPY /package.json .
+COPY /package-lock.json .
+
+RUN npm install -g npm@9.6.2
+
+
+
+RUN npm install --force
+
+COPY . .
+
+
+CMD ["npm","run","dev"]
+

@@ -1,0 +1,30 @@
+[
+  {
+    "firstName": "Momin",
+    "email": "momin@gmail.com",
+    "password": "strong!Passsword123",
+    "confirmPassword": "strong!Passsword123",
+    "role": "user"
+  },
+  {
+    "firstName": "Saim",
+    "email": "saim@gmail.com",
+    "password": "strong!Passsword123",
+    "confirmPassword": "strong!Passsword123",
+    "role": "user"
+  },
+  {
+    "firstName": "Adeel",
+    "email": "adeel@gmail.com",
+    "password": "strong!Passsword123",
+    "confirmPassword": "strong!Passsword123",
+    "role": "user"
+  },
+  {
+    "firstName": "abdullah",
+    "email": "abdullah@gmail.com",
+    "password": "strong!Passsword123",
+    "confirmPassword": "strong!Passsword123",
+    "role": "user"
+  }
+]
